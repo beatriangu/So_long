@@ -24,7 +24,10 @@ Compile the project using the provided Makefile:
 				make
 Run the game executable:
 
-			./so_long maps/map3.ber
+			./so_long maps/map1.ber
+   
+   ![image](https://github.com/user-attachments/assets/abab43f6-44ba-4da3-a8bc-74f15cc56fd2)
+
 
 Make sure you have the MinilibX library installed on your system. If it's not already installed, you can find the library and installation instructions in the project repository.
 
@@ -35,3 +38,6 @@ Game
 
 
 Launch the game using the installation steps mentioned above. Navigate through the map using the arrow keys or WASD keys. Ensure the player can move freely within the map and is restricted by walls and boundaries. Collect items on the map and verify that the score is updated accordingly. Reach the exit tile and confirm that the game ends with a win condition. Trigger any lose conditions (if implemented) and verify that the game ends accordingly. Test various edge cases, such as reaching invalid tiles or unexpected input, to ensure the game handles them gracefully. During testing, monitor the game's performance, responsiveness, and adherence to the specified game rules. Make adjustments and improvements as necessary to enhance the gameplay experience.
+
+![image](https://github.com/user-attachments/assets/203b16a9-c864-40a5-ae53-f09e6071390a)
+
