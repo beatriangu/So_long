@@ -1,7 +1,7 @@
 # So Long
 
 <p align="left">
-
+  <img src="https://github.com/beatriangu/So_long/blob/main/image.png?raw=true" alt="So Long" width="100"/>
 </p>
 
 
