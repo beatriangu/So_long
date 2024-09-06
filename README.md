@@ -41,3 +41,7 @@ Launch the game using the installation steps mentioned above. Navigate through t
 
 ![image](https://github.com/user-attachments/assets/203b16a9-c864-40a5-ae53-f09e6071390a)
 
+<p align="left">
+  <img src="https://github.com/beatriangu/Libft/blob/main/100.png?raw=true" alt="100.png" width="150"/>
+</p>
+
