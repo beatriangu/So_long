@@ -1,4 +1,8 @@
-# So Long #
+# So Long
+
+<p align="left">
+  <img src="https://github.com/beatriangu/Libft/blob/main/Emilio.ico?raw=true" alt="Emilio" width="100"/>
+</p>
 
 
 The objective of the So_Long project is to develop a fully functional 2D game using the MinilibX, a simple graphic library provided by 42.It incorporates various game elements, such as map rendering, player movement, collision detection, item collection, and win/lose conditions. By completing this project, you will enhance your understanding of game development concepts and gain practical experience in using the MinilibX library.
