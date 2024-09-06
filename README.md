@@ -1,7 +1,7 @@
 # So Long
 
 <p align="left">
-  <img src="https://github.com/beatriangu/Libft/blob/main/Emilio.ico?raw=true" alt="Emilio" width="100"/>
+
 </p>
 
 
